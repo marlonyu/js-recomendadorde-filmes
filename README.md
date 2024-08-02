@@ -1,1 +1,1 @@
-# js-recomendadorde-filmes
+# js-recomendador-de-filmes
